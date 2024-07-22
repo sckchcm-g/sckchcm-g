@@ -2,46 +2,30 @@
 
 I'm a passionate **Full Stack Developer** dedicated to continuous learning and improvement.
 
-![Developer](https://your-image-url-here.com/developer-banner.jpg)
-
 ### 🛠️ Tech Stack:
-- **Frontend**: 
-  - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-  - ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-  - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
-  - and so on..
+**Frontend**: 
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) and so on..
 
-- **Backend**:
-  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-  - ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
-  - and so on..
+**Backend**:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat) and so on..
 
-- **Database**:
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-  - and so on..
+**Database**:
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) and so on..
 
-- **Other Tools**:
-  - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-  - ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-  - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
-  - and so on..
+**Other Tools**:
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat) and so on..
 
-- **Deployment**:
-  - ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black&style=flat)
-  - ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat)
-  - ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
+**Deployment**:
+![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black&style=flat) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
 
 ### 📚 Learning:
 - Advanced **React** and **Node.js** techniques
 - **Docker** for containerization
 - Data Structures and Algorithms
-- **Typescript** for newer frameworks \
+- **TypeScript** for newer frameworks
 - and so on..
 
 ### 📬 Contact:
-- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:sparkysaksham.dev@gmail.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/saksham-gupta-87a1a427b/)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:sparkysaksham.dev@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/saksham-gupta-87a1a427b/)
 
 Let's connect and build something amazing together!
