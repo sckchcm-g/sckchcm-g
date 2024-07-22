@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**sckchcm-g/sckchcm-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full Stack Developer** dedicated to continuous learning and improvement.
 
-Here are some ideas to get you started:
+### Tech Stack:
+- **Frontend**: React, HTML5, CSS, JavaScript, Tailwind CSS
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+- **Other Tools**: Git, GitHub, Docker, Cloudinary, Figma
+- **Deployment**: Render, Netlify, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning:
+- Advanced **React** and **Node.js** techniques
+- **Cloudinary** integrations
+- **Docker** for containerization
+- Data Structures and Algorithms
+
+### Contact:
+- [GitHub](https://github.com/yourusername)
+- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+
+Let's connect and build something amazing together!
