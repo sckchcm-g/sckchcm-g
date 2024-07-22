@@ -16,8 +16,7 @@ I'm a passionate **Full Stack Developer** dedicated to continuous learning and i
 - Data Structures and Algorithms
 
 ### Contact:
-- [GitHub](https://github.com/yourusername)
-- [Email](mailto:youremail@example.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Email](mailto:sparkysaksham.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/saksham-gupta-87a1a427b/)
 
 Let's connect and build something amazing together!
